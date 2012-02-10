@@ -1,0 +1,768 @@
+
+
+
+
+<!doctype html>
+
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="google-site-verification" content="P9e8dDWoaDuDPrp0DD3zgkSxYwl5w10Ask6KkHr2V6k">
+<meta http-equiv="content-language" content="en">
+
+
+
+    <meta property="og:url" content="http://www.discogs.com/We-Are-Standard-Great-State/release/3396826">
+    <meta property="og:site_name" content="Discogs">
+    <meta property="og:type" content="album">
+    <meta property="og:title" content="We Are Standard - Great State">
+    <meta property="fb:app_id" content="117175028305858">
+    <meta property="og:image" content="http://s.dsimg.com/image/R-90-3396826-1328801256.jpeg">
+
+<title>
+We Are Standard - Great State (CD) at Discogs</title>
+
+    <link rel="canonical" href="http://www.discogs.com/We-Are-Standard-Great-State/release/3396826">
+
+<link href="http://s.dsimg.com/js/i18n/en/translations.json?03f8f" lang="en" rel="gettext" />
+
+    <link href="http://s.dsimg.com/css/main.css?92bd3" rel="stylesheet" type="text/css"/>
+
+    <link href="http://s.dsimg.com/css/container/assets/skins/sam/container.css?2795e" rel="stylesheet" type="text/css"/>
+
+<link href="http://s.dsimg.com/css/jquery-ui.css?aeeec" rel="stylesheet" type="text/css"/>
+
+<link href="http://s.dsimg.com/css/blog.css?4bb72" rel="stylesheet" type="text/css"/>
+<link href="http://s.dsimg.com/css/i18n.css?b7e07" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+<link rel="icon" href="http://s.dsimg.com/images/record16.ico" />
+
+
+</head>
+
+<body>
+
+
+
+
+<div id="page">
+            
+<div class="ac_div" id="ac_search_q"></div>
+
+
+<ul id="header_menu_help">
+    <li><a href="/help"><strong>Help</strong></a></li>
+
+            <li><a href="/sell/cart" class="sprite cart"></a></li>
+        <li>
+        <a href="https://www.discogs.com/users/login" class="header_button">
+            Log In        </a>
+        </li>
+    </ul>
+<div class="clear"></div>
+
+<div id="header">
+    <a id="headerLogo" href="/" title="Go to Discogs.com homepage">Discogs</a>
+
+    <div id="header_menu_wrapper" class="group">
+        <form class="search" action="/search">
+            <span class="inputwrap">
+                <input id="search_q" name="q" type="text" class="autocomplete ac_type_a_m_r_13 ac_submit init" value="Search artists, albums and more..." /><button type="submit" name="btn" id="do_search">&nbsp;</button>
+                <input id="search_type" name="type" type="hidden" value="all" />
+            </span>
+        </form>
+        
+		
+        <ul id="menu_header" class="group">
+            <li id="menu_head_explore"><a href="/explore">Explore</a></li>
+            <li id="menu_head_buy"><a href="/buy-music">Buy Music</a></li>
+            <li id="menu_head_sell"><a href="/marketplace">Sell Music</a></li>
+            <li id="menu_head_community"><a href="/community">Discuss</a></li>
+                            <li style="float:right" class="notmenu">
+                    <div class="menu_head menu_link">
+                    <a href="https://www.discogs.com/users/create" class="header_button">Create Account</a>
+                    </div>
+                </li>
+                    </ul>
+
+    </div><!-- /header_menu_wrapper -->
+</div>    
+    
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "7410576259";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<p/>
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+        
+
+<script type="text/html" id="newCollBlockTemplate">
+    <div class="cw_block coll_block_r<%= release_id %>_<%= inst %>">
+        <a class="remove">remove</a>
+        <h2>In Collection <span class="cw_ts">added just now</span></h2>
+        <% _.each(fields, function(f) { %>
+            <div class="cw_field_label"><%- f.name %></div>
+            <div class="ile collection_r<%= release_id %>_i<%= inst %>_f<%= f.id %> collection_field cw_field <% if (f.type == 'dropdown') { %> ile_list<% } %>">
+                <span class="cw_note_text"></span>
+                <span class="cw_notes_add">edit</span>
+            </div>
+        <% }) %>
+        <div class="clear"></div>
+    </div>
+</script>
+
+<script type="text/html" id="newWantBlockTemplate">
+    <div class="cw_block want_block_r<%= release_id %>">
+        <a class="remove">remove</a>
+        <h2>In Wantlist <span class="cw_ts">added just now</span></h2>
+        <div class="cw_field_label">Notes</div>
+        <div class="cw_field wantlist_field wantlist_r<%= release_id %>_notes ile">
+            <span class="cw_note_text"></span>
+            <span class="cw_notes_add">edit</span>
+        </div>
+        <div class="clear"></div>
+    </div>
+</script>
+
+<script type="text/html" id="collFieldValueTemplate">
+    <% if (html) { %>
+        <span class="cw_note_text"><%= html %></span>
+    <% } else { %>
+        <span class="cw_note_text"></span><span class="cw_notes_add">edit</span>
+    <% } %>
+</script>
+
+<script type="text/html" id="cwNotesHTMLTemplate">
+    <% if (html) { %>
+        <span class="cw_note_text"><%= html %></span>
+        <span class="cw_notes_pub">(<% if(pub) { %>public<% } else { %>private<% } %>)</div>
+    <% } else { %>
+        <span class="cw_note_text"></span>
+        <span class="cw_notes_add">edit</span>
+    <% } %>
+</script>
+
+
+<div class="lr">
+
+    <div class="left">
+        
+    
+    
+<div class="body">
+    
+            
+                    <div class="image"><a href="/viewimages?release=3396826"><img src="http://s.dsimg.com/image/R-150-3396826-1328801256.jpeg" alt="We Are Standard - Great State" /></a></div>
+            
+    <div class="profile">
+        <h1>
+            <a href="/artist/We+Are+Standard">We Are Standard</a>              &ndash;
+            Great State
+        </h1>
+
+
+                    <div class="head">Label:</div>
+            <div class="content">
+                                    
+    
+            <a href="/label/Mushroom+Pillow">Mushroom Pillow</a> &ndash; MP140
+
+            </div>
+
+            
+            <div class="head">Format:</div>
+            <div class="content">
+                                            
+                                                                                                                                                                                                                                                                            
+            <a href="/explore?fmt=CD">CD</a>, EP
+            <br />
+            
+            </div>
+
+
+            <div class="head">Country:</div>
+            <div class="content">
+                                        <a href="/explore?country=Spain">
+                Spain
+            </a>
+            
+            </div>
+
+            <div class="head">Released:</div>
+            <div class="content">
+                                                    <a href="/explore?decade=2010&year=2011">
+                2011
+            </a>
+            
+            </div>
+        
+
+        <div class="head">Genre:</div>
+        <div class="content">
+                                                                                                                    
+        <a href="/explore?genre=Pop">Pop</a>, <a href="/explore?genre=Rock">Rock</a>
+    
+        </div>
+
+        <div class="head">Style:</div>
+        <div class="content">
+                                                                                        
+        <a href="/explore?style=Alternative+Rock">Alternative Rock</a>
+    
+        </div>
+
+        
+        
+        <div class="clear_left"></div>
+    </div>
+</div>
+
+
+<div id="tracklist" class="section major tracklist">
+    <h3 class="rounded_top group">
+        <span class="fleft">Tracklist</span>
+            </h3>
+
+    <div class="section_content">
+            <table class="playlist mini_playlist" id="playlist-">
+                    
+                                            <tr class="first">
+                                        <td style="width:25px" class="track_pos">1</td>
+                    
+                    <td class="track_artists">
+                                            </td>
+
+                    <td class="track">
+                        <span class="track_title">07:45 (Bring Me Back Home)</span>
+
+                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span></span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">2</td>
+                    
+                    <td class="track_artists">
+                                            </td>
+
+                    <td class="track">
+                        <span class="track_title">Summer</span>
+
+                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span></span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">3</td>
+                    
+                    <td class="track_artists">
+                                            </td>
+
+                    <td class="track">
+                        <span class="track_title">The Good Ones</span>
+
+                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span></span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">4</td>
+                    
+                    <td class="track_artists">
+                                            </td>
+
+                    <td class="track">
+                        <span class="track_title">Let's Say I'm In Love</span>
+
+                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span></span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">5</td>
+                    
+                    <td class="track_artists">
+                                            </td>
+
+                    <td class="track">
+                        <span class="track_title">Love Me</span>
+
+                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span></span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                        </table>
+
+    </div>
+</div>
+
+
+
+
+
+<div class="section major barcodes">
+    <h3 class="rounded_top">Barcode and Other Identifiers</h3>
+    <div class="section_content">
+    <ul class="no_style">
+                    <li>Barcode: 8429006006755</li>
+            </ul>
+    </div>
+</div><!-- /barcodes -->
+
+
+
+            
+
+        
+        
+        
+    
+<div class="section reviews">
+        <h3>Reviews &amp; Discussion</h3>
+    <div class="section_content">
+		<div class="button"><a class="reviews-section-add" data-reviews-add-what="R" data-reviews-add-obid="3396826" onclick="reviews.add('R',3396826);">Post Your Review or Discussion</a></div>
+        <div id="review_space"></div>
+            </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "5805415750";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+    </div><!-- /left -->
+
+    <div class="right">
+                            
+                                
+            
+                            
+    
+
+                
+<ul class="no_style mpBoxLinks group rounded">
+    <li class="first">Discogs Marketplace</li>
+    <li class="group rounded_top rounded_bottom">
+
+    
+    <div class="fleft">
+        <a href="/sell/list?release_id=3396826&ev=rb" class="buybtn2">
+                        Buy
+            
+                            CD
+                    </a>
+    </div>
+
+    <div class="fright" style="margin-top:2px;">
+        <a href="/sell/list?release_id=3396826&ev=rb">
+                            <strong>1 For Sale</strong>
+                    </a>
+
+                from <span class="price">&#8364;9.90</span>
+            </div>
+    </li>
+
+        </li>
+
+    
+        <li class="last">
+        <a href="/sell?release_id=3396826" class="sellbtn">Sell your CD</a>
+    
+        </li>
+    
+</ul>
+            
+        
+        <div class="section first">
+            <h3>Release</h3>
+
+            <div class="section_content">
+                
+                <a href="/explore?style=Alternative+Rock&year=2011&genre=Pop&country=Spain&fmt=CD&decade=2010">Explore Similar Releases</a>
+
+                <div style="margin-top:0.5em;">
+                                            New Submission - 
+                    
+                                            <a href="/history?release=3396826#latest">Edit</a>
+                                    </div>
+            </div>
+        </div><!-- /right -->
+
+        <div class="section">
+            
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "7873888491";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+        </div>
+
+        <div class="section first">
+            <h3>Community</h3>
+            <div class="section_content">
+                
+<div class="fleft">
+    <iframe src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.discogs.com%2FWe-Are-Standard-Great-State%2Frelease%2F3396826&show_faces=false&layout=button_count" scrolling="no" frameborder="0" style="border:none;width:80px;height:20px;"></iframe>
+</div>
+
+<div class="fright" style="text-align: right">
+
+
+    <a style="margin-left:.5em;" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.discogs.com%2FWe-Are-Standard-Great-State%2Frelease%2F3396826', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.discogs.com%2FWe-Are-Standard-Great-State%2Frelease%2F3396826" target="_blank" title="Share on Facebook" class="at_sprite"><span class="at_sprite at_facebook"></span></a>
+    <a style="margin-left:.5em;" onclick="window.open('http://twitter.com/home?status=We+Are+Standard+-+Great+State%20-%20http%3A%2F%2Fwww.discogs.com%2FWe-Are-Standard-Great-State%2Frelease%2F3396826', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=We+Are+Standard+-+Great+State%20-%20http%3A%2F%2Fwww.discogs.com%2FWe-Are-Standard-Great-State%2Frelease%2F3396826" target="_blank" title="Share on Twitter" class="at_sprite"><span class="at_sprite at_twitter"></span></a>
+
+        <span class="fleft">
+        <img style="margin-left:.5em;" title="Artist Code" src="http://s.dsimg.com/images/record16.ico" />
+        <sup onclick="selectMe(this);">[r3396826]</sup>
+    </span>
+    
+</div>
+
+<div class="clear"></div>
+            </div>
+        </div>
+
+        <div class="section ratings">
+            <div class="section_content">
+                                <div class="fleft">
+                
+                <span class="rating_value rating_value_r3396826">?</span> / 5
+                (<a href="/release/stats/3396826"><span class="rating_count_r3396826">0</span> ratings</a>)
+
+                                </div>
+
+                <div class="fright">
+                <div class="rating rating_r3396826">
+    <div class="sprite rating_bar">
+        <a class="sprite bar zero disabled"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+            </div>
+
+        <div class="label">
+        <span class="yours">My Rating</span>
+        <span class="zero">Rate This!</span>
+    </div>
+    </div>
+
+                </div>
+
+                <br clear="all"/>
+                            </div>
+        </div>
+
+        <div class="section collections">
+            <div class="section_content">
+
+                                <div class="num_have">
+                    <button class="button coll_add_button coll_add_r3396826">Add to Collection</button>
+                    <a class="coll_num_r3396826" href="/release/stats/3396826#collection">
+                        0 have this
+                    </a>
+                </div>
+
+                <div class="num_want">
+                    <button class="button want_add_button want_add_r3396826">Add to Wantlist</button>
+                    <a class="want_num_r3396826" href="/release/stats/3396826#wantlist">
+                        0 want this
+                    </a>
+                </div>
+
+                
+                                <div id="collection_r3396826" class="collection">
+                    
+					                                    </div>
+
+                <div id="wantlist_r3396826" class="wantlist">
+                                    </div>
+                            </div>
+        </div>
+
+                    <div id="video" class="section video">
+                            <a class="action" href="/update/videos?release=3396826">edit</a>
+            
+            <h3>Videos</h3>
+            
+            <p style="margin:.5em 0 0 0;padding:0" id="video_now_playing"></p>
+            <div class="section_content" style="padding: .5em 0">
+
+                                    <a href="/update/videos?release=3396826">Add a Video</a>
+                            </div>
+        </div>
+    
+
+            <div id="list" class="section lists">
+        <h3>Lists</h3>
+        <div class="section_content">
+                        &#9656; <a class="lists-list-add" data-list-add-what="R" data-list-add-obid="3396826" data-list-add-pos="bottom" onclick="listAdd('R', 3396826, 'bottom');">Add to List</a>
+        </div>
+    </div>
+
+
+                    <div class="section contribs">
+    <h3>Contributors</h3>
+    <div class="section_content">
+        <strong><a href="/user/CANDILEJAS" class="user">CANDILEJAS</a></strong>
+        <div class="nextpage">
+            &#9656;
+            <a href="/history?release=3396826#latest">Show History / Edit</a>
+        </div>
+    </div>
+</div>
+
+            </div>
+</div>
+
+
+    
+
+            
+<div id="footer_border"></div>
+
+<div class="menu" id="menu_buy">
+    <a href="/sell/mywants">Items I Want</a>
+    <a href="/digital/mywants?ev=wsidm" class="indent">in MP3/WAV</a>
+    <a href="https://www.discogs.com/sell/purchases">My Purchases</a>
+    <a href="/settings/buyer" class="grouplast">Settings</a>
+    <div class="header"><strong>Popular Formats:</strong></div>
+    <a href="/sell/list?format=Vinyl">Vinyl</a>
+    <a href="/sell/list?format=CD">CD</a>
+    <a href="/digital">MP3/WAV</a>
+</div>
+
+<div class="menu" id="menu_sell">
+    <a href="/marketplace">Getting Started</a>
+    <a href="https://www.discogs.com/sell/manage">Manage Inventory</a>
+        <a href="https://www.discogs.com/sell/orders">My Orders</a>
+    <a href="https://www.discogs.com/sell/billing">Billing</a>
+    <a href="https://www.discogs.com/settings/seller" class="last">Settings</a>
+</div>
+
+<div class="menu" id="menu_community"> 
+    <a href="/groups/recent_activity">Recent Group Activity</a>
+    <a href="/groups/mygroups">My Groups</a>
+    <a href="/groups/saved_topics" class="grouplast">Saved Group Topics</a>
+    <a href="/help/forums">Help Forums</a>
+    <a href="/blog">Official Blog</a>
+</div>
+
+<div class="menu" id="menu_account">
+    <a href="/mycollection">Collection</a>
+    <a href="/mywantlist">Wantlist</a>
+    <a href="/submissions">Submissions</a>
+    <a href="/users/drafts">Drafts</a>
+        <a href="/users/friends">Friends</a>
+    <a href="/users/export" class="grouplast">Export Data</a>
+    <a href="https://www.discogs.com/settings">Settings</a>
+    </div>
+
+<div id="footer">
+    <table>
+        <tr>
+            <td class="footer_menu_col" valign="top">
+                <h4>Discogs</h4>
+                <ul>
+                    <li><a href="/help/about-discogs.html">About Us</a></li>
+                    <li><a href="/blog">Official Blog</a></li>
+                    <li><a href="/help/jobs.html">Jobs</a></li>
+                    <li><a href="/shop">Shop</a></li>
+                    <li><a href="#" id="switch_site">Mobile</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Help&nbsp;Is&nbsp;Here</h4>
+                <ul>
+                    <li><a href="/help">Help</a></li>
+                    <li><a href="/help/forums">Forums</a></li>
+                                            <li><a href="/support">Contact</a>
+                                    </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Join&nbsp;In</h4>
+                <ul>
+                                            <li><a href="https://www.discogs.com/users/create">Sign Up</a></li>
+                                        <li><a href="/help/contributing.html">Contribute</a></li>
+                    <li><a href="/release/add">Add Release</a></li>
+                    <li><a href="/stats/contributors">Contributor List</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Follow&nbsp;Us</h4>
+                <ul>
+                    <li><a href="http://www.facebook.com/Discogs">Facebook</a></li>
+                    <li><a href="http://twitter.com/discogs">Twitter</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Languages (<a href="/help/forums/topic/333307">beta</a>)</h4>
+                <ul>
+                                            <li><a class="language" data-language="de">Deutsch</a></li>
+                                            <li><a class="language current" data-language="en">English</a></li>
+                                            <li><a class="language" data-language="en_GB">English (UK)</a></li>
+                                            <li><a class="language" data-language="es">Español</a></li>
+                                            <li><a class="language" data-language="fr">Français</a></li>
+                                            <li><a class="language" data-language="it">Italiano</a></li>
+                                            <li><a class="language" data-language="ja">日本語</a></li>
+                                            <li><a class="language" data-language="pt">Português</a></li>
+                                            <li><a class="language" data-language="pt_BR">Português (Brasil)</a></li>
+                                            <li><a class="language" data-language="ru">Русский</a></li>
+                                            <li><a class="language" data-language="zh">中文</a></li>
+                                    </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Other&nbsp;Stuff</h4>
+                <ul>
+                    <li><a href="http://www.discogs.com/developers/">Developers&nbsp;API</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <div class="clear"></div>
+
+    <p class="gr">
+        Discogs&trade; website Copyright &copy; 2012 Discogs
+        <a href="/help/terms-of-service.html">Terms of Service</a>
+        <a href="/help/privacy-policy.html">Privacy Policy</a>
+    </p>
+
+</div>
+
+<div id="act"></div>
+    </div>
+
+    <script>window.Reka57SpEBe4ru7R = {"apiServer": "http://api.discogs.com", "release/view:collectionFieldOpts": null, "release/view:releaseId": 3396826, "searchFilter": {"html": "all", "name": "all"}, "staticServer": "http://s.dsimg.com"};</script>
+
+    <script type="text/javascript" src="http://sl.dsimg.com/js/base_libs.js?d1658"></script>
+    <script type="text/javascript" src="http://s.dsimg.com/js/i18n/i18n.js?ef196"></script>
+    <script type="text/javascript" src="http://s.dsimg.com/js/jquery_plugins/jquery.gettext.js?fdf74"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.gt.load();
+        });
+    </script>
+
+    
+            <script type="text/javascript" src="http://s.dsimg.com/js/global.js?e62d8"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/reviews.js?189b3"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/jwplayer.js?8d8aa"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/releases.js?ba06a"></script>
+    
+<script type="text/javascript">
+                DISCOGS.set("Session", {loggedin: false, username: ''});
+        DISCOGS.set('static_server', 'http://s.dsimg.com');
+    DISCOGS.set('api_server', 'http://api.discogs.com');
+            searchFilter(null,{'name':"all",'html':"all"});
+        var release_id = 3396826;
+                                        
+</script>
+
+
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1210093-1");
+    pageTracker._setCustomVar(1,"User Type","Visitor",2);
+    pageTracker._trackPageview('/release__Pop_Rock');
+    
+    } catch(err) {}</script>
+
+</body>
+</html>
+
+<!-- web08/app9:html -->

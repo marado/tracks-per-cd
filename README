@@ -1,0 +1,9 @@
+This is a very very hackish and ugly script I've just made to prove a point on
+a G+ comment.
+But *please do* use, abuse, and specially make it better ;-)
+
+script.sh is *the* script, the rest are only the generated files from my
+run (from where I extracted the result I'm using on that G+ comment ;-)). 
+
+This script tries to estimate how many tracks are there (medium) in one audio
+CD released in 2011.

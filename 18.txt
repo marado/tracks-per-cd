@@ -1,0 +1,1498 @@
+
+
+
+
+<!doctype html>
+
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="google-site-verification" content="P9e8dDWoaDuDPrp0DD3zgkSxYwl5w10Ask6KkHr2V6k">
+<meta http-equiv="content-language" content="en">
+
+
+
+    <meta property="og:url" content="http://www.discogs.com/Whitney-Houston-The-Ultimate-Collection-Girls-Night-In-X/release/3396769">
+    <meta property="og:site_name" content="Discogs">
+    <meta property="og:type" content="album">
+    <meta property="og:title" content="Whitney Houston - The Ultimate Collection - Girls Night In X">
+    <meta property="fb:app_id" content="117175028305858">
+    <meta property="og:image" content="http://s.dsimg.com/image/R-90-3396769-1328801291.jpeg">
+
+<title>
+Whitney Houston - The Ultimate Collection - Girls Night In X (CD) at Discogs</title>
+
+    <link rel="canonical" href="http://www.discogs.com/Whitney-Houston-The-Ultimate-Collection-Girls-Night-In-X/release/3396769">
+
+<link href="http://s.dsimg.com/js/i18n/en/translations.json?03f8f" lang="en" rel="gettext" />
+
+    <link href="http://s.dsimg.com/css/main.css?92bd3" rel="stylesheet" type="text/css"/>
+
+    <link href="http://s.dsimg.com/css/container/assets/skins/sam/container.css?2795e" rel="stylesheet" type="text/css"/>
+
+<link href="http://s.dsimg.com/css/jquery-ui.css?aeeec" rel="stylesheet" type="text/css"/>
+
+<link href="http://s.dsimg.com/css/blog.css?4bb72" rel="stylesheet" type="text/css"/>
+<link href="http://s.dsimg.com/css/i18n.css?b7e07" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+<link rel="icon" href="http://s.dsimg.com/images/record16.ico" />
+
+
+</head>
+
+<body>
+
+
+
+
+<div id="page">
+            
+<div class="ac_div" id="ac_search_q"></div>
+
+
+<ul id="header_menu_help">
+    <li><a href="/help"><strong>Help</strong></a></li>
+
+            <li><a href="/sell/cart" class="sprite cart"></a></li>
+        <li>
+        <a href="https://www.discogs.com/users/login" class="header_button">
+            Log In        </a>
+        </li>
+    </ul>
+<div class="clear"></div>
+
+<div id="header">
+    <a id="headerLogo" href="/" title="Go to Discogs.com homepage">Discogs</a>
+
+    <div id="header_menu_wrapper" class="group">
+        <form class="search" action="/search">
+            <span class="inputwrap">
+                <input id="search_q" name="q" type="text" class="autocomplete ac_type_a_m_r_13 ac_submit init" value="Search artists, albums and more..." /><button type="submit" name="btn" id="do_search">&nbsp;</button>
+                <input id="search_type" name="type" type="hidden" value="all" />
+            </span>
+        </form>
+        
+		
+        <ul id="menu_header" class="group">
+            <li id="menu_head_explore"><a href="/explore">Explore</a></li>
+            <li id="menu_head_buy"><a href="/buy-music">Buy Music</a></li>
+            <li id="menu_head_sell"><a href="/marketplace">Sell Music</a></li>
+            <li id="menu_head_community"><a href="/community">Discuss</a></li>
+                            <li style="float:right" class="notmenu">
+                    <div class="menu_head menu_link">
+                    <a href="https://www.discogs.com/users/create" class="header_button">Create Account</a>
+                    </div>
+                </li>
+                    </ul>
+
+    </div><!-- /header_menu_wrapper -->
+</div>    
+    
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "7410576259";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<p/>
+
+
+
+        
+    
+    
+    
+    
+    
+    
+    
+    
+        
+
+<script type="text/html" id="newCollBlockTemplate">
+    <div class="cw_block coll_block_r<%= release_id %>_<%= inst %>">
+        <a class="remove">remove</a>
+        <h2>In Collection <span class="cw_ts">added just now</span></h2>
+        <% _.each(fields, function(f) { %>
+            <div class="cw_field_label"><%- f.name %></div>
+            <div class="ile collection_r<%= release_id %>_i<%= inst %>_f<%= f.id %> collection_field cw_field <% if (f.type == 'dropdown') { %> ile_list<% } %>">
+                <span class="cw_note_text"></span>
+                <span class="cw_notes_add">edit</span>
+            </div>
+        <% }) %>
+        <div class="clear"></div>
+    </div>
+</script>
+
+<script type="text/html" id="newWantBlockTemplate">
+    <div class="cw_block want_block_r<%= release_id %>">
+        <a class="remove">remove</a>
+        <h2>In Wantlist <span class="cw_ts">added just now</span></h2>
+        <div class="cw_field_label">Notes</div>
+        <div class="cw_field wantlist_field wantlist_r<%= release_id %>_notes ile">
+            <span class="cw_note_text"></span>
+            <span class="cw_notes_add">edit</span>
+        </div>
+        <div class="clear"></div>
+    </div>
+</script>
+
+<script type="text/html" id="collFieldValueTemplate">
+    <% if (html) { %>
+        <span class="cw_note_text"><%= html %></span>
+    <% } else { %>
+        <span class="cw_note_text"></span><span class="cw_notes_add">edit</span>
+    <% } %>
+</script>
+
+<script type="text/html" id="cwNotesHTMLTemplate">
+    <% if (html) { %>
+        <span class="cw_note_text"><%= html %></span>
+        <span class="cw_notes_pub">(<% if(pub) { %>public<% } else { %>private<% } %>)</div>
+    <% } else { %>
+        <span class="cw_note_text"></span>
+        <span class="cw_notes_add">edit</span>
+    <% } %>
+</script>
+
+
+<div class="lr">
+
+    <div class="left">
+        
+    
+    
+<div class="body">
+    
+            
+                    <div class="image"><a href="/viewimages?release=3396769"><img src="http://s.dsimg.com/image/R-150-3396769-1328801291.jpeg" alt="Whitney Houston - The Ultimate Collection - Girls Night In X" /></a></div>
+            
+    <div class="profile">
+        <h1>
+            <a href="/artist/Whitney+Houston">Whitney Houston</a>              &ndash;
+            The Ultimate Collection - Girls Night In X
+        </h1>
+
+
+                    <div class="head">Label:</div>
+            <div class="content">
+                                    
+    
+            <a href="/label/Sony+Music+Entertainment+%28UK%29+Ltd.">Sony Music Entertainment (UK) Ltd.</a> &ndash; 88697952552
+
+            </div>
+
+            
+            <div class="head">Format:</div>
+            <div class="content">
+                                            
+                                                                                                                                                                                                                                                                            
+            <a href="/explore?fmt=CD">CD</a>, Compilation, Reissue
+            <br />
+            
+            </div>
+
+
+            <div class="head">Country:</div>
+            <div class="content">
+                                        <a href="/explore?country=Europe">
+                Europe
+            </a>
+            
+            </div>
+
+            <div class="head">Released:</div>
+            <div class="content">
+                                                    <a href="/explore?decade=2010&year=2011">
+                2011
+            </a>
+            
+            </div>
+        
+
+        <div class="head">Genre:</div>
+        <div class="content">
+                                                                                                                                                
+        <a href="/explore?genre=Funk+%2F+Soul">Funk / Soul</a>, <a href="/explore?genre=Hip+Hop">Hip Hop</a>, <a href="/explore?genre=Pop">Pop</a>
+    
+        </div>
+
+        <div class="head">Style:</div>
+        <div class="content">
+                                                                                                                                                
+        <a href="/explore?style=RnB%2FSwing">RnB/Swing</a>, <a href="/explore?style=Soul">Soul</a>, <a href="/explore?style=Ballad">Ballad</a>
+    
+        </div>
+
+        
+        
+        <div class="clear_left"></div>
+    </div>
+</div>
+
+
+<div id="tracklist" class="section major tracklist">
+    <h3 class="rounded_top group">
+        <span class="fleft">Tracklist</span>
+                <span class="fright"><a class="toggleTracklistCredits smallish">Hide Credits</a></span>
+            </h3>
+
+    <div class="section_content">
+            <table class="playlist mini_playlist" id="playlist-">
+                    
+                                            <tr class="first">
+                                        <td style="width:25px" class="track_pos">1</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">I Will Always Love You</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals], Executive Producer
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer, Arranged By
+                                    &ndash;
+                                    <a href="/artist/David+Foster">David Foster</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Dolly+Parton">Dolly Parton</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:24</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">2</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Saving All My Love For You</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Michael+Masser">Michael Masser</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Gerry+Goffin?anv=Gerry+Coffin">Gerry Coffin</a>*, <a href="/artist/Michael+Masser">Michael Masser</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>3:46</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">3</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Greatest Love Of All</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Michael+Masser">Michael Masser</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Linda+Creed">Linda Creed</a>, <a href="/artist/Michael+Masser">Michael Masser</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:47</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">4</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">One Moment In Time</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals]
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Albert+Hammond">Albert Hammond</a>, <a href="/artist/John+Bettis">John Bettis</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:44</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">5</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">I Wanna Dance With Somebody (Who Loves Me)</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/George+Merrill">George Merrill</a>, <a href="/artist/Shannon+Rubicam">Shannon Rubicam</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:50</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">6</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">How Will I Know</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer, Arranged By
+                                    &ndash;
+                                    <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/George+Merrill">George Merrill</a>, <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>, <a href="/artist/Shannon+Rubicam">Shannon Rubicam</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:34</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">7</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">So Emotional</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/John+%22Jellybean%22+Benitez">John "Jellybean" Benitez</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Billy+Steinberg">Billy Steinberg</a>, <a href="/artist/Tom+Kelly">Tom Kelly</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:32</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">8</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a> Duet With <a href="/artist/Mariah+Carey">Mariah Carey</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">When You Believe (From The Prince Of Egypt)</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Mixed By
+                                    &ndash;
+                                    <a href="/artist/Jon+Gass">Jon Gass</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Music By [Additional], Producer, Keyboards, Drum Programming
+                                    &ndash;
+                                    <a href="/artist/Babyface">Babyface</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Recorded By
+                                    &ndash;
+                                    <a href="/artist/Paul+Boutin">Paul Boutin</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Recorded By [Mariah Carey's Vocal]
+                                    &ndash;
+                                    <a href="/artist/Dana+Jon+Chappelle?anv=Dana+Chappelle">Dana Chappelle</a>*
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Kenneth+Edmonds">Kenneth Edmonds</a>, <a href="/artist/Stephen+Schwartz">Stephen Schwartz</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:33</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">9</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Where Do Broken Hearts Go</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals]
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Chuck+Jackson+%282%29?anv=Charles+Jackson">Charles Jackson</a>*, <a href="/artist/Frank+Wildhorn">Frank Wildhorn</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:36</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">10</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">I'm Your Baby Tonight</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Babyface">Babyface</a>, <a href="/artist/L.A.+Reid">L.A. Reid</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Kenneth+Edmonds">Kenneth Edmonds</a>, <a href="/artist/L.A.+Reid?anv=Antonio+Reid">Antonio Reid</a>*
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:11</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">11</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Didn't We Almost Have It All</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals]
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Michael+Masser">Michael Masser</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Michael+Masser">Michael Masser</a>, <a href="/artist/Will+Jennings">Will Jennings</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:35</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">12</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Run To You</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals], Executive Producer
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/David+Foster">David Foster</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Allan+Rich">Allan Rich</a>, <a href="/artist/Jud+Friedman?anv=Jud+J.+Friedman">Jud J. Friedman</a>*
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:24</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">13</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">Exhale (Shoop Shoop)</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Executive Producer
+                                    &ndash;
+                                    Kenneth "Babyface" Edmonds, Whitney Houston
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Babyface">Babyface</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Kenneth+Edmonds">Kenneth Edmonds</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>3:21</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">14</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a> Duet With <a href="/artist/George+Michael">George Michael</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">If I Told You That</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Engineer [Mix]
+                                    &ndash;
+                                    <a href="/artist/Ren+Swan">Ren Swan</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Mixed By
+                                    &ndash;
+                                    <a href="/artist/Jon+Douglas">Jon Douglas</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Performer [All Instruments]
+                                    &ndash;
+                                    <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer [Additional]
+                                    &ndash;
+                                    <a href="/artist/George+Michael">George Michael</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Recorded By [Remix]
+                                    &ndash;
+                                    <a href="/artist/Dexter+Simmons">Dexter Simmons</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Fred+Jerkins+III">Fred Jerkins III</a>, <a href="/artist/LaShawn+Daniels">LaShawn Daniels</a>, <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>, <a href="/artist/Toni+Estes">Toni Estes</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:06</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">15</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">I Have Nothing</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals], Executive Producer
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer, Arranged By
+                                    &ndash;
+                                    <a href="/artist/David+Foster">David Foster</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/David+Foster">David Foster</a>, <a href="/artist/Linda+Thompson+%282%29">Linda Thompson (2)</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:48</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">16</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">I'm Every Woman</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Producer, Arranged By
+                                    &ndash;
+                                    <a href="/artist/Narada+Michael+Walden">Narada Michael Walden</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Ashford+%26+Simpson?anv=Nick+Ashford%2C+Valerie+Simpson">Nick Ashford, Valerie Simpson</a>*
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:40</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">17</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">It's Not Right But It's Okay</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Edited By [Pro Tools Editing]
+                                    &ndash;
+                                    <a href="/artist/Harvey+Mason+Jr.?anv=Harvey+Mason%2C+Jr.">Harvey Mason, Jr.</a>*
+                                </span>
+                                                                <span style="display:block">
+                                    Music By [All Music]
+                                    &ndash;
+                                    <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Recorded By, Mixed By
+                                    &ndash;
+                                    <a href="/artist/Brad+Gilderman">Brad Gilderman</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Fred+Jerkins+III">Fred Jerkins III</a>, <a href="/artist/Isaac+Phillips">Isaac Phillips</a>, <a href="/artist/LaShawn+Daniels">LaShawn Daniels</a>, <a href="/artist/Rodney+Jerkins">Rodney Jerkins</a>, <a href="/artist/Toni+Estes">Toni Estes</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>4:40</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                                
+                                            <tr>
+                                        <td style="width:25px" class="track_pos">18</td>
+                    
+                    <td class="track_artists">
+                                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>  
+                            <span style="margin:0 .3em">&ndash;</span>
+                                            </td>
+
+                    <td class="track" style="width:50%">
+                        <span class="track_title">My Love Is Your Love</span>
+
+                                                    <blockquote>
+                                                                <span style="display:block">
+                                    Arranged By [Vocals]
+                                    &ndash;
+                                    <a href="/artist/Whitney+Houston">Whitney Houston</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Producer
+                                    &ndash;
+                                    <a href="/artist/Jerry+Duplessis?anv=Jerry+%22Wonder%22+Duplessis">Jerry "Wonder" Duplessis</a>*, <a href="/artist/Wyclef+Jean">Wyclef Jean</a>
+                                </span>
+                                                                <span style="display:block">
+                                    Written-By
+                                    &ndash;
+                                    <a href="/artist/Jerry+Duplessis">Jerry Duplessis</a>, <a href="/artist/Wyclef+Jean">Wyclef Jean</a>
+                                </span>
+                                                                            </td>
+
+                    <td width="25" class="track_duration">
+                        <span>3:55</span>
+                    </td>
+
+                    <td width="1">
+                                            </td>
+                </tr>
+                        </table>
+
+    </div>
+</div>
+
+<div class="section major companies">
+    <h3 class="rounded_top">Companies etc</h3>
+    <div class="section_content">
+        <ul class="no_style">
+                            <li>
+                <span class="type">Mastered At</span>
+                &ndash;
+                <a href="/label/Integrated+Studios">Integrated Studios</a>
+
+                                </li>
+                            <li>
+                <span class="type">Distributed By</span>
+                &ndash;
+                <a href="/label/Sony+Music+Entertainment">Sony Music Entertainment</a>
+
+                                </li>
+                    </ul>
+    </div>
+</div><!-- /companies -->
+
+
+<div class="section major credits">
+    <h3 class="rounded_top">Credits</h3>
+    <div class="section_content">
+        <ul class="no_style">
+                <li>
+        <span class="role">Artwork By [Design]</span>
+        &ndash;
+        Gary De Bique Qd
+        </li>
+                <li>
+        <span class="role">Executive Producer</span>
+        &ndash;
+        Clive Davis
+        </li>
+                <li>
+        <span class="role">Mastered By</span>
+        &ndash;
+        <a href="/artist/Larry+Lachmann" target="_blank" class="rollover_link">Larry Lachmann</a>
+        </li>
+                </ul>
+    </div><!-- /credits -->
+</div>
+
+<div class="section major notes">
+    <h3 class="rounded_top">Notes</h3>
+    <div class="section_content">
+        <p>Reissue of 2007 compilation for UK market in 2011, with additional cardboard sleeve, additional title: "Girls Night In".
+<br />This compilation: ℗ &amp; © 2011 Sony Music Entertainment UK Limited.</p>
+
+<p>Jewel case: ℗ 1985, 1987, 1988, 1990, 1992, 1995, 1998, 2000, 2007 &amp; © 2007 Arista Records LLC, a unit of Sony BMG Music Entertainment
+<br />Made in the EU.
+</p>
+    </div><!-- /notes -->
+</div>
+
+<div class="section major barcodes">
+    <h3 class="rounded_top">Barcode and Other Identifiers</h3>
+    <div class="section_content">
+    <ul class="no_style">
+                    <li>Barcode (Cardboard Sleeve): 88697525528</li>
+                    <li>Label Code (Cardboard Sleeve): LC12723</li>
+                    <li>Rights Society: BIEM</li>
+                    <li>Rights Society: GEMA</li>
+                    <li>Barcode (Jewel Case Sleeve): 88697 17701 2</li>
+                    <li>Label Code (Jewel Case Sleeve): LC 03484</li>
+            </ul>
+    </div>
+</div><!-- /barcodes -->
+
+
+
+                            <div class="section major other_versions">
+            <h3>
+                Other Versions (Showing 5
+                of                5)
+                <a href="/Whitney-Houston-The-Ultimate-Collection-Girls-Night-In-X/master/170609">View All</a>
+            </h3>
+            <div class="section_content">
+                    
+    <table class="cw_releases ">
+
+        
+                    <tr>
+                                    <th></th>
+                                            <th>Title, Format</th>
+                                            <th>Label</th>
+                                            <th>Cat#</th>
+                                            <th>Country</th>
+                                            <th>Year</th>
+                                                                <th></th>
+                                                </tr>
+        
+                    
+            <tr class="r_tr r1621174 release edit">
+<td class="status" title="Recently Edited"></td>
+<td class="hl"><a href="/Whitney-Houston-The-Ultimate-Collection/release/1621174">The Ultimate Collection</a> (CD, Comp)</td>
+<td><a href="/label/Arista">Arista</a></td>
+<td>88697 17701 2</td>
+<td>Europe</td>
+<td>2007</td>
+<td width="1"><span class="r_cws r1621174"></span></td>
+</tr>
+                    
+            <tr class="r_tr r2006853 release new">
+<td class="status" title="New Submission"></td>
+<td class="hl"><a href="/Whitney-Houston-The-Ultimate-Collection/release/2006853">The Ultimate Collection</a> (CD, Comp)</td>
+<td><a href="/label/Sony+BMG+Music+Entertainment+(Russia)">Sony BMG Music Entertainment (Russia)</a></td>
+<td>88697 19494 2</td>
+<td>Russia</td>
+<td>2007</td>
+<td width="1"><span class="r_cws r2006853"></span></td>
+</tr>
+                    
+            <tr class="r_tr r1876698 release new">
+<td class="status" title="New Submission"></td>
+<td class="hl"><a href="/Whitney-Houston-The-Ultimate-Collection/release/1876698">The Ultimate Collection</a> (CD, Comp)</td>
+<td><a href="/label/BMG+Japan">BMG Japan</a>, <a href="/label/Arista">Arista</a></td>
+<td>BVCP-21592, 88697-17701-2</td>
+<td>Japan</td>
+<td>2007</td>
+<td width="1"><span class="r_cws r1876698"></span></td>
+</tr>
+                    
+            <tr class="r_tr r1877086 release new">
+<td class="status" title="New Submission"></td>
+<td class="hl"><a href="/Whitney-Houston-The-Ultimate-Collection/release/1877086">The Ultimate Collection</a> (CD, Comp + DVD-V, NTSC)</td>
+<td><a href="/label/BMG+Japan">BMG Japan</a>, <a href="/label/Arista">Arista</a></td>
+<td>BVCP-25133/4, 88697-29173-2</td>
+<td>Japan</td>
+<td>2007</td>
+<td width="1"><span class="r_cws r1877086"></span></td>
+</tr>
+                    
+            <tr class="r_tr r2110111 release new">
+<td class="status" title="New Submission"></td>
+<td class="hl"><a href="/Whitney-Houston-The-Ultimate-Collection/release/2110111">The Ultimate Collection</a> (CD, Comp + DVD-V, Comp)</td>
+<td><a href="/label/Sony+BMG+Music+Entertainment">Sony BMG Music Entertainment</a>, <a href="/label/Arista">Arista</a></td>
+<td>88697188982</td>
+<td>France</td>
+<td>2007</td>
+<td width="1"><span class="r_cws r2110111"></span></td>
+</tr>
+            </table>
+
+    
+            </div>
+        </div>
+    
+
+        
+        
+        
+    
+<div class="section reviews">
+        <h3>Reviews &amp; Discussion</h3>
+    <div class="section_content">
+		<div class="button"><a class="reviews-section-add" data-reviews-add-what="R" data-reviews-add-obid="3396769" onclick="reviews.add('R',3396769);">Post Your Review or Discussion</a></div>
+        <div id="review_space"></div>
+            </div>
+</div>
+
+
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "5805415750";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+    </div><!-- /left -->
+
+    <div class="right">
+                            
+                                                            
+            
+                            
+    
+
+                
+<ul class="no_style mpBoxLinks group rounded">
+    <li class="first">Discogs Marketplace</li>
+    <li class="group rounded_top rounded_bottom">
+
+    
+    <a href="/sell/list?q=Whitney+Houston+-+The+Ultimate+Collection+-+Girls+Night+In+X&ev=is" class="sbsb rounded">
+                Search for <strong>The Ultimate Collection - ...</strong>
+            </a>
+        </li>
+
+    
+        <li class="last">
+        <a href="/sell?release_id=3396769" class="sellbtn">Sell your CD</a>
+    
+        </li>
+    
+</ul>
+            
+        
+        <div class="section first">
+            <h3>Release</h3>
+
+            <div class="section_content">
+                                <a href="/Whitney-Houston-The-Ultimate-Collection-Girls-Night-In-X/master/170609">
+                    All Versions of this Release
+                </a>
+                <br />
+                
+                <a href="/explore?style=RnB%2FSwing&style=Soul&style=Ballad&year=2011&genre=Funk+%2F+Soul&country=Europe&fmt=CD&decade=2010">Explore Similar Releases</a>
+
+                <div style="margin-top:0.5em;">
+                                            New Submission - 
+                    
+                                            <a href="/history?release=3396769#latest">Edit</a>
+                                    </div>
+            </div>
+        </div><!-- /right -->
+
+        <div class="section">
+            
+
+
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8397586240158859";
+google_ad_slot = "7873888491";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+        </div>
+
+        <div class="section first">
+            <h3>Community</h3>
+            <div class="section_content">
+                
+<div class="fleft">
+    <iframe src="http://www.facebook.com/widgets/like.php?href=http%3A%2F%2Fwww.discogs.com%2FWhitney-Houston-The-Ultimate-Collection-Girls-Night-In-X%2Frelease%2F3396769&show_faces=false&layout=button_count" scrolling="no" frameborder="0" style="border:none;width:80px;height:20px;"></iframe>
+</div>
+
+<div class="fright" style="text-align: right">
+
+
+    <a style="margin-left:.5em;" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.discogs.com%2FWhitney-Houston-The-Ultimate-Collection-Girls-Night-In-X%2Frelease%2F3396769', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.discogs.com%2FWhitney-Houston-The-Ultimate-Collection-Girls-Night-In-X%2Frelease%2F3396769" target="_blank" title="Share on Facebook" class="at_sprite"><span class="at_sprite at_facebook"></span></a>
+    <a style="margin-left:.5em;" onclick="window.open('http://twitter.com/home?status=Whitney+Houston+-+The+Ultimate+Collection+-+Girls+Night+In+X%20-%20http%3A%2F%2Fwww.discogs.com%2FWhitney-Houston-The-Ultimate-Collection-Girls-Night-In-X%2Frelease%2F3396769', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=Whitney+Houston+-+The+Ultimate+Collection+-+Girls+Night+In+X%20-%20http%3A%2F%2Fwww.discogs.com%2FWhitney-Houston-The-Ultimate-Collection-Girls-Night-In-X%2Frelease%2F3396769" target="_blank" title="Share on Twitter" class="at_sprite"><span class="at_sprite at_twitter"></span></a>
+
+        <span class="fleft">
+        <img style="margin-left:.5em;" title="Artist Code" src="http://s.dsimg.com/images/record16.ico" />
+        <sup onclick="selectMe(this);">[r3396769]</sup>
+    </span>
+    
+</div>
+
+<div class="clear"></div>
+            </div>
+        </div>
+
+        <div class="section ratings">
+            <div class="section_content">
+                                <div class="fleft">
+                
+                <span class="rating_value rating_value_r3396769">3.00</span> / 5
+                (<a href="/release/stats/3396769"><span class="rating_count_r3396769">1</span> ratings</a>)
+
+                                </div>
+
+                <div class="fright">
+                <div class="rating rating_r3396769">
+    <div class="sprite rating_bar">
+        <a class="sprite bar zero disabled"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+                    <a class="bar"></a>
+            </div>
+
+        <div class="label">
+        <span class="yours">My Rating</span>
+        <span class="zero">Rate This!</span>
+    </div>
+    </div>
+
+                </div>
+
+                <br clear="all"/>
+                            </div>
+        </div>
+
+        <div class="section collections">
+            <div class="section_content">
+
+                                <div class="num_have">
+                    <button class="button coll_add_button coll_add_r3396769">Add to Collection</button>
+                    <a class="coll_num_r3396769" href="/release/stats/3396769#collection">
+                        1 has this
+                    </a>
+                </div>
+
+                <div class="num_want">
+                    <button class="button want_add_button want_add_r3396769">Add to Wantlist</button>
+                    <a class="want_num_r3396769" href="/release/stats/3396769#wantlist">
+                        0 want this
+                    </a>
+                </div>
+
+                
+                                <div id="collection_r3396769" class="collection">
+                    
+					                                    </div>
+
+                <div id="wantlist_r3396769" class="wantlist">
+                                    </div>
+                            </div>
+        </div>
+
+                    <div id="video" class="section video">
+                            <a class="action" href="/update/videos?release=3396769">edit</a>
+            
+            <h3>Videos</h3>
+                            <p style="font-size:12px">Disclaimer: Videos may not match exact release</p>
+            
+            <p style="margin:.5em 0 0 0;padding:0" id="video_now_playing"></p>
+            <div class="section_content" style="padding: .5em 0">
+
+                                                                                                    
+                    <div id="mediaplayer"></div>
+					                                                </div>
+        </div>
+    
+
+            <div id="list" class="section lists">
+        <h3>Lists</h3>
+        <div class="section_content">
+                                                <div><a href="/lists/Soul-Vation/124959">Soul-Vation</a> by <a href="/user/notthat" class="user">notthat</a></div>
+                                        &#9656; <a class="lists-list-add" data-list-add-what="R" data-list-add-obid="3396769" data-list-add-pos="bottom" onclick="listAdd('R', 3396769, 'bottom');">Add to List</a>
+        </div>
+    </div>
+
+
+                    <div class="section contribs">
+    <h3>Contributors</h3>
+    <div class="section_content">
+        <strong><a href="/user/Jooles" class="user">Jooles</a></strong>
+        <div class="nextpage">
+            &#9656;
+            <a href="/history?release=3396769#latest">Show History / Edit</a>
+        </div>
+    </div>
+</div>
+
+            </div>
+</div>
+
+
+    
+
+            
+<div id="footer_border"></div>
+
+<div class="menu" id="menu_buy">
+    <a href="/sell/mywants">Items I Want</a>
+    <a href="/digital/mywants?ev=wsidm" class="indent">in MP3/WAV</a>
+    <a href="https://www.discogs.com/sell/purchases">My Purchases</a>
+    <a href="/settings/buyer" class="grouplast">Settings</a>
+    <div class="header"><strong>Popular Formats:</strong></div>
+    <a href="/sell/list?format=Vinyl">Vinyl</a>
+    <a href="/sell/list?format=CD">CD</a>
+    <a href="/digital">MP3/WAV</a>
+</div>
+
+<div class="menu" id="menu_sell">
+    <a href="/marketplace">Getting Started</a>
+    <a href="https://www.discogs.com/sell/manage">Manage Inventory</a>
+        <a href="https://www.discogs.com/sell/orders">My Orders</a>
+    <a href="https://www.discogs.com/sell/billing">Billing</a>
+    <a href="https://www.discogs.com/settings/seller" class="last">Settings</a>
+</div>
+
+<div class="menu" id="menu_community"> 
+    <a href="/groups/recent_activity">Recent Group Activity</a>
+    <a href="/groups/mygroups">My Groups</a>
+    <a href="/groups/saved_topics" class="grouplast">Saved Group Topics</a>
+    <a href="/help/forums">Help Forums</a>
+    <a href="/blog">Official Blog</a>
+</div>
+
+<div class="menu" id="menu_account">
+    <a href="/mycollection">Collection</a>
+    <a href="/mywantlist">Wantlist</a>
+    <a href="/submissions">Submissions</a>
+    <a href="/users/drafts">Drafts</a>
+        <a href="/users/friends">Friends</a>
+    <a href="/users/export" class="grouplast">Export Data</a>
+    <a href="https://www.discogs.com/settings">Settings</a>
+    </div>
+
+<div id="footer">
+    <table>
+        <tr>
+            <td class="footer_menu_col" valign="top">
+                <h4>Discogs</h4>
+                <ul>
+                    <li><a href="/help/about-discogs.html">About Us</a></li>
+                    <li><a href="/blog">Official Blog</a></li>
+                    <li><a href="/help/jobs.html">Jobs</a></li>
+                    <li><a href="/shop">Shop</a></li>
+                    <li><a href="#" id="switch_site">Mobile</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Help&nbsp;Is&nbsp;Here</h4>
+                <ul>
+                    <li><a href="/help">Help</a></li>
+                    <li><a href="/help/forums">Forums</a></li>
+                                            <li><a href="/support">Contact</a>
+                                    </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Join&nbsp;In</h4>
+                <ul>
+                                            <li><a href="https://www.discogs.com/users/create">Sign Up</a></li>
+                                        <li><a href="/help/contributing.html">Contribute</a></li>
+                    <li><a href="/release/add">Add Release</a></li>
+                    <li><a href="/stats/contributors">Contributor List</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Follow&nbsp;Us</h4>
+                <ul>
+                    <li><a href="http://www.facebook.com/Discogs">Facebook</a></li>
+                    <li><a href="http://twitter.com/discogs">Twitter</a></li>
+                </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Languages (<a href="/help/forums/topic/333307">beta</a>)</h4>
+                <ul>
+                                            <li><a class="language" data-language="de">Deutsch</a></li>
+                                            <li><a class="language current" data-language="en">English</a></li>
+                                            <li><a class="language" data-language="en_GB">English (UK)</a></li>
+                                            <li><a class="language" data-language="es">Español</a></li>
+                                            <li><a class="language" data-language="fr">Français</a></li>
+                                            <li><a class="language" data-language="it">Italiano</a></li>
+                                            <li><a class="language" data-language="ja">日本語</a></li>
+                                            <li><a class="language" data-language="pt">Português</a></li>
+                                            <li><a class="language" data-language="pt_BR">Português (Brasil)</a></li>
+                                            <li><a class="language" data-language="ru">Русский</a></li>
+                                            <li><a class="language" data-language="zh">中文</a></li>
+                                    </ul>
+            </td>
+
+            <td class="footer_menu_col" valign="top">
+                <h4>Other&nbsp;Stuff</h4>
+                <ul>
+                    <li><a href="http://www.discogs.com/developers/">Developers&nbsp;API</a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <div class="clear"></div>
+
+    <p class="gr">
+        Discogs&trade; website Copyright &copy; 2012 Discogs
+        <a href="/help/terms-of-service.html">Terms of Service</a>
+        <a href="/help/privacy-policy.html">Privacy Policy</a>
+    </p>
+
+</div>
+
+<div id="act"></div>
+    </div>
+
+    <script>window.Reka57SpEBe4ru7R = {"apiServer": "http://api.discogs.com", "videos/macro:playlist": "[{\"duration\": 30, \"description\": \"Whitney Houston - The ultimate collection\", \"file\": \"http://www.youtube.com/watch?v=LK4PyCAKB9g\", \"title\": \"Whitney Houston - The ultimate collection\"}]", "release/view:collectionFieldOpts": null, "searchFilter": {"html": "all", "name": "all"}, "staticServer": "http://s.dsimg.com", "release/view:releaseId": 3396769};</script>
+
+    <script type="text/javascript" src="http://sl.dsimg.com/js/base_libs.js?d1658"></script>
+    <script type="text/javascript" src="http://s.dsimg.com/js/i18n/i18n.js?ef196"></script>
+    <script type="text/javascript" src="http://s.dsimg.com/js/jquery_plugins/jquery.gettext.js?fdf74"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.gt.load();
+        });
+    </script>
+
+    
+            <script type="text/javascript" src="http://s.dsimg.com/js/global.js?e62d8"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/reviews.js?189b3"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/jwplayer.js?8d8aa"></script>
+            <script type="text/javascript" src="http://s.dsimg.com/js/releases.js?ba06a"></script>
+    
+<script type="text/javascript">
+                DISCOGS.set("Session", {loggedin: false, username: ''});
+        DISCOGS.set('static_server', 'http://s.dsimg.com');
+    DISCOGS.set('api_server', 'http://api.discogs.com');
+            searchFilter(null,{'name':"all",'html':"all"});
+        var release_id = 3396769;
+                                                                var player = jwplayer('mediaplayer');
+                        player.setup({
+                            flashplayer: 'http://s.dsimg.com/embed/jwplayer58.swf',
+                            id: 'playerID',
+                            width: '290',
+                            height: '400',
+                            controlbar: 'bottom',
+                            repeat: 'list',
+                            'logo.file': 'http://s.dsimg.com/images/discogs-white.png',
+                            'playlist.position': 'bottom',
+                            playlist: [{"duration": 30, "description": "Whitney Houston - The ultimate collection", "file": "http://www.youtube.com/watch?v=LK4PyCAKB9g", "title": "Whitney Houston - The ultimate collection"}],
+                            events: {
+                                onError: function(){
+                                    var playlistSize = player.getPlaylist().length,
+                                        currentItem = player.getCurrentItem();
+                                    if (currentItem < playlistSize-1)
+                                        player.playlistNext();
+                                },
+                                onPlay: function(){
+                                    pageTracker._trackEvent('release', 'videos_play')
+                                    $('#video_now_playing').html('Now playing: '+player.getPlaylistItem()['title']);
+                                },
+                                onPause: function(){
+                                    pageTracker._trackEvent('release', 'videos_pause')
+                                }
+                            }
+                        });
+                    
+</script>
+
+
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1210093-1");
+    pageTracker._setCustomVar(1,"User Type","Visitor",2);
+    pageTracker._trackPageview('/release__3ormoregenres');
+    
+    } catch(err) {}</script>
+
+</body>
+</html>
+
+<!-- web11/app1:html -->
